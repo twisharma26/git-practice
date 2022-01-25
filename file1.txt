@@ -6,5 +6,7 @@ characters -
 - catherine 
 - cara 
 - wilbur
+- phil 
+- kristin
 
 

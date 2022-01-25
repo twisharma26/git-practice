@@ -3,5 +3,7 @@ characters -
 - niki 
 - anna 
 - hannah
+- catherine 
+- cara 
 
 

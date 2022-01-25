@@ -1,0 +1,16 @@
+git init 
+    - to initialise 
+git add [file name]
+    to save it in local repository 
+git commit -m "[message]"
+    to save the changes in remote repository
+git diff --staged 
+    to show the difference between the last committed and last added file 
+    file specific, shows you changes only in the file you added using git add 
+git diff 
+    to show the last change made in the working directory (the entire folder)
+    not file specific
+    helps if you cant remember where you last made a change
+
+
+
